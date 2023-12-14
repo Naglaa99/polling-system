@@ -17,4 +17,4 @@
 ![preview img](./screen_preview/mob.png)
 
 
-- live demo : []
+- live demo : [https://naglaa99.github.io/polling-system/]
